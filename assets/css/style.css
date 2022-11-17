@@ -2154,3 +2154,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 	margin-top: 0;
 	margin-bottom: 0
 }
+
+.fondHeFoo {
+	background: url(../img/FondoHeaderFooter.jpg) center;
+}
